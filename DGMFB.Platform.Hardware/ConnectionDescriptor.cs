@@ -2,7 +2,7 @@
 
 namespace DGMFB.Platform.Hardware
 {
-	public class Class1
+	public class ConnectionDescriptor
 	{
 	}
 }
