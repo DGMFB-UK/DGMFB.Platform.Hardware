@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGMFB.Platform.Hardware.Connection", "DGMFB.Platform.Hardware\DGMFB.Platform.Hardware.Connection.csproj", "{133F7A65-6D09-4E75-ABF4-BBC965D243CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGMFB.Platform.Hardware.Protocols", "DGMFB.Platform.Hardware.Protocols\DGMFB.Platform.Hardware.Protocols.csproj", "{CDE62272-E1AC-43DF-A462-65C2F59B9207}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGMFB.Platform.Hardware.Protocols", "DGMFB.Platform.Hardware\DGMFB.Platform.Hardware.Protocols.csproj", "{CDE62272-E1AC-43DF-A462-65C2F59B9207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
